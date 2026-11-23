@@ -9,6 +9,7 @@ A simple guide to getting into the dark web safely: first install Tor Browser on
 1. **Install Tor Browser:** choose your device below.
 2. **Set the security level:** explained in every guide.
 3. **Enter the dark web:** [First steps on the dark web](docs/en/darkweb.md)
+4. **Go further:** [Advanced security, OpSec and practical tips](docs/en/opsec.md)
 
 ## What is the dark web?
 
@@ -73,6 +74,10 @@ Open [check.torproject.org](https://check.torproject.org) in Tor Browser. If it 
 ## Step 3: Enter the dark web
 
 How to open your first .onion site and where to find safe addresses: **[First steps on the dark web](docs/en/darkweb.md)**
+
+## Step 4: Go further
+
+Typical OpSec mistakes, Tor bridges against blocks, Tor Browser vs. Tails vs. Whonix, and a mini glossary: **[Advanced security, OpSec and practical tips](docs/en/opsec.md)**
 
 ## Sources
 

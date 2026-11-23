@@ -9,6 +9,7 @@ Eine einfache Anleitung, wie du sicher ins Darkweb kommst: zuerst den Tor Browse
 1. **Tor Browser installieren:** Wähle unten dein Gerät.
 2. **Sicherheitsstufe einstellen:** steht in jeder Anleitung.
 3. **Ins Darkweb gehen:** [Erste Schritte im Darkweb](docs/de/darkweb.md)
+4. **Weiterführend:** [Sicherheit, OpSec und Praxis-Tipps](docs/de/opsec.md)
 
 ## Was ist das Darkweb?
 
@@ -73,6 +74,10 @@ Die grösste Gefahr ist nicht die Technik, sondern das eigene Verhalten.
 ## Schritt 3: Ins Darkweb gehen
 
 Wie du deine erste .onion-Seite öffnest und wo du sichere Adressen findest, steht hier: **[Erste Schritte im Darkweb](docs/de/darkweb.md)**
+
+## Schritt 4: Weiterführend
+
+Typische OpSec-Fehler, Tor Bridges gegen Blockaden, Tor Browser vs. Tails vs. Whonix und ein Mini-Glossar: **[Sicherheit, OpSec und Praxis-Tipps](docs/de/opsec.md)**
 
 ## Quellen
 
